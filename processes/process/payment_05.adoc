@@ -1,5 +1,8 @@
 = Profile 05: Billing
 
+INFO::
+This profile is not in use as of November 26th 2020
+
 Customer prosesses invoices (paperbased or eInvoice, and forwards to customer.
 Bank returns notification file for automated reconciliation of account receivable.
 

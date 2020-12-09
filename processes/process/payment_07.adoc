@@ -1,5 +1,8 @@
 = Profile 07: Canselation of DirectDebit Initiation
 
+INFO::
+This profile is not in use as of November 26th 2020
+
 Customer may request that previous Direct Debit initiations not yet processed, can be canceled.
 
 Identifier: `urn:fdc:bits.no:2017:profile:07:1.0`
