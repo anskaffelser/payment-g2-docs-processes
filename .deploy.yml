@@ -1,5 +1,5 @@
 site_draft:
-  id: ehf-payment-g1-docs-draft
+  id: ehf-payment-g1-docs-processes-draft
   type: site
   path: target
   properties:
@@ -8,7 +8,7 @@ site_draft:
 
 site_current:
   mode: release
-  id: ehf-payment-g1-docs-current
+  id: ehf-payment-g1-docs-processes-current
   type: site
   path: target
   properties:
