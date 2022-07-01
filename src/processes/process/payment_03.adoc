@@ -2,7 +2,7 @@
 
 Bank receives payment messages from customers, and returns status reports and notifications.
 
-Identifier: `urn:fdc:bits.no:2017:profile:03:1.0`
+Identifier: `urn:fdc:bits.no:2019:profile:03:2.0`
 
 [cols="2,1", options="header"]
 |===

@@ -13,16 +13,8 @@ include::payment_03.adoc[]
 
 include::payment_04.adoc[]
 
-include::payment_05.adoc[]
-
-include::payment_06.adoc[]
-
-include::payment_07.adoc[]
-
 include::payment_09.adoc[]
 
 include::payment_10.adoc[]
-
-include::payment_11.adoc[]
 
 :leveloffset: -1
