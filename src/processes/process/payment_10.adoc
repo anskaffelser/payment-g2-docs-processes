@@ -1,4 +1,4 @@
-= Profile 10
+= Profile 10: Account statement
 
 Customer receive messages from the bank for updating general ledger and decision-/ liquidity -systems.
 
