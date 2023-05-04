@@ -13,4 +13,4 @@ These document types are defined as part of ISO 20022 payment exchange:
 | Camt.055 | urn:iso:std:iso:20022:tech:xsd:camt.055.001.08
 |===
 
-All document types uses the same customization: `urn:fdc:bits.no:2019:iso20022:2.0`
+All document types uses the same customization: `urn:fdc:bits.no:2017:iso20022:2.0`
