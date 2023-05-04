@@ -2,7 +2,7 @@
 
 Customer may request that previous payment initiations not yet processed, can be canceled.
 
-Identifier: `urn:fdc:bits.no:2019:profile:02:2.0`
+Identifier: `urn:fdc:bits.no:2017:profile:02:2.0`
 
 [cols="2,1", options="header"]
 |===
