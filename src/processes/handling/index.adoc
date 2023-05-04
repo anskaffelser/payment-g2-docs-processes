@@ -3,7 +3,7 @@
 Payment handling is a set of document types used in addition to business documents flowing in the network.
 
 These messages uses the payment handling customization:
-`urn:fdc:anskaffelser.dev:2019:payment:handling:2.0`
+`urn:fdc:bits.no:2022:payment:handling:2.0`
 
 There are currently no rules attached to payment handling except those defining document types part of payment handling.
 
