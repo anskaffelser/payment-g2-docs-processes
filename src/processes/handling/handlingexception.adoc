@@ -5,11 +5,11 @@ This message copies the process identifier for which it responds to, and the doc
 
 .How to construct the document type identifier:
 --
-* Namespace of Payment Extras (`urn:fdc:anskaffelser.dev:2019:payment:extras-1`)
+* Namespace of Payment Extras (`urn:fdc:bits:2022:payment:extras-1`)
 * Separator (`::`)
 * Document type (`HandlingException`)
 * Separator (`##`)
-* Identifier for payment handling (`urn:fdc:anskaffelser.dev:2019:payment:handling:2.0`)
+* Identifier for payment handling (`urn:fdc:bits.no:2022:payment:handling:2.0`)
 * Separator (`:for:`)
 * Namespace of received document (`urn:iso:std:iso:20022:tech:xsd:pain.001.001.09`)
 * Separator (`:restricted:`)
@@ -19,6 +19,6 @@ This message copies the process identifier for which it responds to, and the doc
 --
 
 Example of document type identifier:
-`urn:fdc:ansaffelser.dev:2019:payment:extras-1::HandlingException##urn:fdc:anskaffelser.dev:2019:payment:handling:2.0:for:urn:iso:std:iso:20022:tech:xsd:pain.001.001.09:restricted:urn:fdc:bits.no:2019:iso20022:2.0::1.0`
+`urn:fdc:bits.no:2022:payment:extras-1::HandlingException##urn:fdc:bits.no:2022:payment:handling:2.0:for:urn:iso:std:iso:20022:tech:xsd:pain.001.001.09:restricted:urn:fdc:bits.no:2017:iso20022:2.0::1.0`
 
 Handling exception is registered to the sender of ISO 20022 document types.
